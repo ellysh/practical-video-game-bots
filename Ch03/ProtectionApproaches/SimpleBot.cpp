@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include <windows.h>
 
 BOOL SetPrivilege(HANDLE hToken, LPCTSTR lpszPrivilege, BOOL bEnablePrivilege)
